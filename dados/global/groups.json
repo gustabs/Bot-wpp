@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "120363273362695840@g.us",
+    "subject": "Administração do BOT",
+    "subjectOwner": "554192366835@s.whatsapp.net",
+    "subjectTime": 1714241560,
+    "size": 3,
+    "creation": 1714188824,
+    "owner": "554195961197@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5491126187193@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554192366835@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554195961197@s.whatsapp.net",
+        "admin": "superadmin"
+      }
+    ]
+  }
+]

@@ -1,6 +1,5 @@
 const configbot = (prefixo) => {
-return `
-=== COMO PERSONALIZAR O BOT PARA SER O DONO ===
+  return `
 
 Primeiramente, ative o bot no termux ou onde for e vá para o WhatsApp do bot em uma conversa privada. Utilize os seguintes comandos:
 
@@ -26,7 +25,7 @@ ${prefixo}fotomenu
 Apenas marque a foto que queres que seja do menu, com o comando.
 
 Boa sorte.
-`
-}
+`;
+};
 
-exports.configbot = configbot
+exports.configbot = configbot;

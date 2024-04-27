@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "groupId": "120363273362695840@g.us",
+    "numbers": [
+      {
+        "id": "554195961197@s.whatsapp.net",
+        "messages": 43,
+        "figus": 2,
+        "cmd_messages": 76,
+        "aparelho": "Android ツ",
+        "nick": "Gustavo"
+      },
+      {
+        "id": "554195050582@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 9,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "⏤͟͟͞͞𝑶 𝒊𝒍𝒖𝒎𝒊𝒏𝒂𝒅𝒐 🕊️"
+      },
+      {
+        "id": "554192366835@s.whatsapp.net",
+        "messages": 44,
+        "cmd_messages": 4,
+        "aparelho": "IPhone ｯ",
+        "figus": 4,
+        "nick": "Gustavo Mathias 🔰"
+      }
+    ]
+  }
+]
